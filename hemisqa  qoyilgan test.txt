@@ -1,0 +1,2094 @@
+"Oldindan yaratilgan komponentlar asosida dasturiy ta'minotni ishlab chiqish" yondashuvida 
+talablarni
+spetsifikatsiyalash bosqichidan keyin va talablarni sertifikatlash bosqichidan oldin bajariladigan 
+to'g'ri
+ketma-ketlikni ko'rsating: 1) Talablarni modifikatsiyalash 2) Tizimni loyihalash 3) Tizimni ishlab 
+chiqish va
+integratsiyalash 4) Komponentlarni tahlil qilish.
+
+====
+
+2, 1, 3, 4
+
+====
+
+1, 2, 3, 4
+
+====
+
+#4, 1, 2, 3
+
+====
+
+1, 4, 3, 2
+
+++++
+
+Qaysi xususiyat dastur ob'ektlari hajmiga bog'liq?
+
+====
+
+#Murakkablik
+
+====
+
+Ahamiyatsizlik
+
+====
+
+Qulaylik
+
+====
+
+Uyg'unlik
+
+++++
+
+Umumiy dasturiy mahsulotlar va buyurtma asosida tayyorlangan mahsulotlar o'rtasidagi muhim farq
+nima?
+
+====
+
+Umumiy dasturiy mahsulotlar katta tirajga ega, maxsus dasturiy ta'minot cheklangan hajmda 
+chiqariladi;
+
+====
+
+
+#Umumiy dasturiy mahsulotlarning talablar spetsifikatsiyasini ishlab chiquvchi - DT ishlab chiqish
+kompaniyasi hisoblanadi, buyurtirilgan dasturiy mahsulotlar talablari spetsifikatsiyasini ishlab 
+chiquvchi -
+DTga buyurtmachi-kompaniya hisoblanadi;
+
+====
+
+Buyurtmaga asosan ishlab chiqilgan dasturiy ta'minot, umumiy dasturiy mahsulotlardan farqli o'laroq,
+shartnoma asosida amalga oshiriladi;
+
+Umumiy dasturiy mahsulotlar uchun talablar spetsifikatsiyasi bo'lmaydi;
+
+====
+
+Umumiy dasturiy mahsulotlar kichik tirajga ega, maxsus dasturiy ta'minot cheklangan hajmda
+chiqariladi;
+
+++++
+
+Dasturiy ta'minotni ishlab chiqish uchun qanday texnik usullarni eng yaxshi deb hisoblash mumkin?
+
+====
+
+Tez moslashuvchan (Agile) usullar;
+
+====
+
+Kaskad modeli (sharshara modeli);
+
+====
+
+#Eng yaxshi usulni tanlash ishlab chiqilayotgan dasturiy mahsulotning turiga va talablariga 
+bog'liq;
+
+====
+
+Ilgari yaratilgan tarkibiy qismlardan dasturiy mahsulotni yig'ish;
+
+++++
+
+Qaysi modelda har bir burilish ishlab chiqish bosqichini anglatadi?
+
+====
+
+sharshara modelida
+
+====
+
+har qanday modelda
+
+====
+
+#spiral modelda
+
+====
+
+
+ushbu modellarning hech birida
+
+++++
+
+Dasturiy ta'minot nima? Eng aniq ta'rifni tanlang
+
+====
+
+#Bu kompyuter dasturlari bo'lib, dasturlarning to'g'ri ishlashi uchun zarur bo'lgan barcha tegishli
+hujjatlar, va konfiguratsion ma'lumotlar
+
+====
+
+Bu bajariladigan modullar va konfiguratsion fayllar
+
+====
+
+Bu texnik hujjatlar
+
+====
+
+Bu kompyuter dasturi bilan sinonimdir
+
+++++
+
+Quyidagilardan qaysi biri "Umumiy dasturiy mahsulotlar" turiga taalluqli emas
+
+====
+
+loyihani boshqarish vositalari
+
+====
+
+grafik paketlar
+
+====
+
+ma'lumotlar bazasini boshqarish tizimlari
+
+====
+
+#havo transportlarini boshqarish tizimlari
+
+++++
+
+Quyidagilardan qaysi biri "buyurtma asosida yaratilgan dasturiy mahsulotlar" turiga taalluqli emas?
+
+====
+
+
+elektron qurilmalarni boshqarish tizimlari
+
+====
+
+muayyan ishlab chiqarish yoki biznes jarayonlarini qo'llab-quvvatlash tizimlari
+
+====
+
+#ma'lumotlar bazasini boshqarish tizimlari
+
+====
+
+havo transportlarini boshqarish tizimlari
+
+++++
+
+Dasturiy injiniring va sxemotexnika o'rtasida qanday bog'liqlik bor?
+
+====
+
+Tez-tez qo'llanadi
+
+====
+
+#Bir-biri bilan chambarchas bog'liq
+
+====
+
+Ba'zan foydalaniladi
+
+====
+
+Bog'liq emas
+
+++++
+
+Ishlab chiqish fazasi nima?
+
+====
+
+#jarayonning boshlanishi, oxiri va chiqishi natijasi bo'lgan ma'lum bir bosqich
+jarayonning ma'lum bir bosqichidagi chiqish natijasi
+
+====
+
+dasturiy ta'minotni ishlab chiqish jarayonida bajariladigan ma'lum bir ish turi
+
+====
+
+dasturiy ta'minot ishlab chiqishda quriladigan tuzilma
+
+====
+
+
+dasturiy ta'minot ishlab chiqish
+
+++++
+
+Tizim muhandisligi nima?
+
+====
+
+dasturiy ta'minotni ishlab chiqishning barcha jihatlarini qamrab olgan muhandislik fani
+
+====
+
+hisoblash tizimlarining barcha jihatlarini qamrab oluvchi nazariy fan
+
+====
+
+hisoblash tizimlarining barcha jihatlarini qamrab oladigan amaliy fan
+
+====
+
+#hisoblash tizimini rivojlantirishning barcha jihatlarini qamrab oladigan jarayon
+
+++++
+
+Dasturiy ta'minot yaratishning texnologik jarayoni nima?
+
+====
+
+dasturiy muhandislik texnologiyasi
+
+====
+
+dasturiy ta'minotni yaratish jarayonining soddalashtirilgan tavsifi
+
+====
+
+#dasturiy ta'minotni yaratish yoki rivojlantirishga olib keladigan jarayonlar to'plami
+
+====
+
+hisoblash tizimini rivojlantirishning barcha jihatlarini qamrab oladigan jarayon
+
+++++
+
+Dasturiy ta'minot injiniringi jarayonining modeli nima?
+
+====
+
+dasturiy ingeneringi texnologiyasi
+
+
+====
+
+dasturiy ta'minotni yaratish jarayonining soddalashtirilgan tavsifi
+
+====
+
+#dasturiy ta'minotni yaratish yoki rivojlantirishga olib keladigan jarayonlar to'plami
+
+====
+
+hisoblash tizimini rivojlantirishning barcha jihatlarini qamrab oladigan jarayon
+
+++++
+
+Dasturiy ta'minotni yaratishda xarajatlar tarkibi qanday?
+
+====
+
+#dasturiy ta'minotni ishlab chiqarishga xarajatlar taxminan 60% va sinash va tuzatishga 40%
+
+====
+
+dasturiy ta'minotni ishlab chiqarishga xarajatlar taxminan 50% va uni sinash va tuzatishga 50%
+
+====
+
+dasturiy ta'minotni ishlab chiqarishga xarajatlar taxminan 80% va sinash va tuzatishga 20%
+
+====
+
+dasturiy ta'minotni ishlab chiqarishga xarajatlar taxminan 40% va sinash va tuzatishga 60%
+
+++++
+
+Dasturiy injiniring metodlari nima?
+
+====
+
+hisoblash tizimini rivojlantirishning barcha jihatlarini qamrab oladigan jarayon
+
+====
+
+dasturiy ta'minotni ishlab chiqish uchun ma'muriy echimlar
+
+====
+
+#dasturiy ta'minotni ishlab chiqish uchun tarkibiy echimlar
+
+====
+
+dasturiy muhandislik texnologiyasi
+
+
+++++
+
+Qaysi belgi sifatli dasturiy ta'minot belgilariga kirmaydi?
+
+====
+
+funksionallik va samaradorlik talablariga javob beradigan
+
+====
+
+yangilash imkoniyatiga ega bo'lish
+
+====
+
+ishonchli, foydalanish oson
+
+====
+
+#operatsion tizimga musligi
+
+++++
+
+Dasturiy mahsulotni yaratishga olib keladigan jarayonlar to'plami qanday nomlanadi?
+
+====
+
+#dasturiy ta'minot yaratish
+
+====
+
+talablarni ishlab chiqish
+
+====
+
+hujjatlarni ishlab chiqish
+
+====
+
+dasturiy ta'minotni ishlab chiqish va ishlatish
+
+++++
+
+Har qanday dastuy loyihani yaratishga nechta fundamental jarayonlar mavjud?
+
+====
+3
+
+====
+#4
+
+
+====
+5
+
+====
+6
+
+++++
+
+Dastur yaratish jarayonining soddalashtirilgan tavsifi nima?
+
+====
+
+Algoritm
+
+====
+
+Jarayon
+
+====
+
+#Model
+
+====
+
+rivojlanish bosqichlari
+
+++++
+
+Dasturning sinov versiyasi (qoralamasi) nima deyiladi?
+
+====
+
+algoritm
+
+====
+
+bosqichi
+
+====
+
+model
+
+====
+
+#prototip
+
+++++
+
+
+CASE qisqartmasi –
+
+====
+
+#dasturiy ta'minotni avtomatlashtirilgan holda ishlab chiqish
+
+====
+
+dasturiy ta'minot avtomatlashtirilgan modelini ishlab chiqish
+
+====
+
+avtomatlashtirilgan tizim dasturini ishlab chiqish
+
+====
+
+kompyuter yordamida dizayn
+
+++++
+
+Dasturiy ta'minotni takomillashtirishning qulayligi –
+
+====
+
+#yaxshilash imkoniyati
+
+====
+
+ishonchlilik, xavfsizlik va xavfsizlik
+
+====
+
+xotira yoki protsessor vaqti kabi tizim resurslarini isrof qilmasligi
+
+====
+
+tegishli foydalanuvchi interfeysi bo'lishi kerak
+
+++++
+
+Dasturiy ta'minotning ishonchliligi –
+
+====
+
+yaxshilash imkoniyati
+
+====
+
+#ishonchlilik, to’xtovsiz ishlashi va ximoyalanganligi
+
+====
+
+xotira yoki protsessor vaqti kabi tizim resurslarini isrof qilmasligi
+
+
+====
+
+tegishli foydalanuvchi interfeysi bo'lishi kerak
+
+++++
+
+Dastur samaradorligi-
+
+====
+
+yaxshilash imkoniyati.
+
+====
+
+ishonchlilik, xavfsizlik va ximoyalanganligi
+
+====
+
+#xotira yoki protsessor vaqti kabi tizim resurslarini isrof qilmasligi
+
+====
+
+tegishli foydalanuvchi interfeysi bo'lishi kerak
+
+++++
+
+Dasturlardan foydalanish qulayligi –
+
+====
+
+yaxshilash imkoniyati
+
+====
+
+ishonchlilik, xavfsizlik va xavfsizlik
+
+====
+
+xotira yoki protsessor vaqti kabi tizim resurslarini isrof qilmasligi
+
+====
+
+#tegishli foydalanuvchi interfeysi bo'lishi kerak
+
+++++
+
+Mavjud dasturiy ta'minotga texnik xizmat ko'rsatish va modernizatsiya qilish, (minimal moliyaviy va 
+vaqt
+xarajatlarida) nimani anglatadi?
+
+
+====
+
+#merosiy muammo
+
+====
+
+dasturiy tizimlarning heterojenligi muammosi
+
+====
+
+yaratish vaqtini qisqartirish muammosi
+
+====
+
+xarajatlar muammosi
+
+++++
+
+Kompyuter tarmoqlarida tarqatilgan tizim sifatida nimalar ishlashi kerak?
+
+====
+
+meros muammosi
+
+====
+
+#dasturiy tizimlarning har xilliga muammosi
+
+====
+
+yaratish vaqtini qisqartirish muammosi
+
+====
+
+xarajatlar muammosi
+
+++++
+
+Qaysi muammo katta va murakkab dasturiy ta'minot tizimlari sifatiga putur etkazmasdan vaqtni
+qisqartirishni talab qiladi?
+
+====
+
+meros muammosi
+
+====
+
+dasturiy tizimlarning heterojenligi muammosi
+
+====
+
+#yaratish vaqtini qisqartirish muammosi
+
+
+====
+
+xarajatlar muammosi
+
+++++
+
+Kasbiy majburiyatlar. Ish beruvchi va mijozlar haqida hech qanday ma'lumotni oshkor qilmang, bu –
+
+====
+
+#Maxfiylik
+
+====
+
+Barkamollik
+
+====
+
+Intellektual mulk huquqlari
+
+====
+
+Kompyuterdan fiydalanishni suiste'mol qilish.
+
+++++
+
+Dasturiy ta'minot bo'yicha mutaxassisning kasbiy majburiyatlari. Ushbu darajaga to'g'ri kelmaydigan
+ishni qilmaslik, bu –
+
+====
+
+Maxfiylik
+
+====
+
+#Kasbiy etuklik
+
+====
+
+Intellektual mulk huquqlari
+
+====
+
+Kompyuterni suiiste'mol qilish.
+
+++++
+
+Dasturiy ta'minot bo'yicha mutaxassisning kasbiy majburiyatlari. Mualliflik huquqining tegishli
+qoidalarini buzmaslik, bu –
+
+
+====
+
+Maxfiylik
+
+====
+
+Barkamollik
+
+====
+
+#Intellektual mulk huquqlari
+
+====
+
+Kompyuterni suiiste'mol qilish
+
+++++
+
+Dasturiy ta'minot bo'yicha mutaxassisning kasbiy majburiyatlari. O'zining professional darajasidan
+foydalanib, boshqa odamlarning kompyuterlariga zarar etkazmasligi kerak, bu –
+
+====
+
+Maxfiylik
+
+====
+
+Barkamollik
+
+====
+
+Intellektual mulk huquqlari
+
+====
+
+#Kompyuterga zarar yetkazmaslik
+
+++++
+
+SWEBOK –
+
+====
+
+#dasturiy injiniring bilimlari majmui
+
+====
+
+dasturiy bilimlar
+
+====
+
+dasturiy qo'llanma
+
+
+====
+
+dasturiy ta'minot muhandislik talablari
+
+++++
+
+SWEBOKning asosiy bilimlari nechta bilim yo'nalishini o'z ichiga oladi?
+
+====
+5
+
+====
+#10
+
+====
+12
+
+====
+16
+
+++++
+
+Qanday talablar dasturiy ta'minotni ishlab chiqishga kirmaydi?
+
+====
+
+Mahsulot va jarayonga qo'yiladigan talablar
+
+====
+
+Funksional talablar.
+
+====
+
+#Aralash talablar
+
+====
+
+Funksional bo'lmagan talablar
+
+++++
+
+Ishlash shartlari va dasturiy ta'minotning ishlash tartibi, ishlash muhiti cheklovlari; boshqa 
+dasturlar
+bilan o'zaro ishlash tamoyillarini aniqlash. Bu-
+
+
+====
+
+#Mahsulot va jarayonga qo'yiladigan talablar
+
+====
+
+Funksional talablar
+
+====
+
+Funksional bo'lmagan talablar
+
+====
+
+Tizim talablari
+
+++++
+
+..... - tizimning maqsadi va funksiyalarini aniqlash.
+
+====
+
+Mahsulot va jarayonga qo'yiladigan talablar
+
+====
+
+#Funksional talablar
+
+====
+
+Funksional bo'lmagan talablar
+
+====
+
+Tizim talablari
+
+++++
+
+... - dasturiy ta'minotni bajarish, portativlik va ma'lumotlarga kirish shartlarini aniqlash
+
+====
+
+Mahsulot va jarayonga qo'yiladigan talablar
+
+====
+
+Funksional talablar
+
+====
+
+#Funksional bo'lmagan talablar
+
+====
+
+
+Tizim talablari
+
+++++
+
+Dasturiy ta'minot tizimiga umumiy talablar, bu –
+
+====
+
+Mahsulot va jarayonga qo'yiladigan talablar
+
+====
+
+Funksional talablar
+
+====
+
+Funksional bo'lmagan talablar
+
+====
+
+#Tizim talablari
+
+++++
+
+Dasturiy ta'minotga talablarni shakllantirish, hujjatlashtirish va qo'llab-quvvatlash jarayoni, 
+shuninday
+dasturiy ta'minot muhandisligining tegishli sohasi qanday nomlanadi?
+
+====
+
+#Muhandislik talablari
+
+====
+
+Dasturiy ta'minot dizayni
+
+====
+
+Dasturiy injiniring
+
+====
+
+Dastur sinovi
+
+++++
+
+Dasturiy ta'minot arxitekturasini, tarkibiy qismlarning to'plamini va ularning interfeyslarini 
+aniqlash
+jarayoni qanday nomlanadi?
+
+====
+
+
+Muhandislik talablari
+
+====
+
+#Dasturiy ta'minot dizayni
+
+====
+
+Dasturiy injiniring
+
+====
+
+Dastur sinovi
+
+++++
+
+Ta'sis elementlaridan dasturiy ta'minot yaratish jarayoni va uni test va sinov usullari bilan 
+tekshirish
+jarayoni qanday nomlanadi?
+
+====
+
+Muhandislik talablari
+
+====
+
+Dasturiy ta'minotni loyihalash
+
+====
+
+#Dasturiy injiniring
+
+====
+
+Dastur sinovi
+
+++++
+
+Tayyor dasturni uning talablarga muvofiqligini ta'minlash uchun statistika va dinamikada tekshirish
+jarayoni qanday nomlanadi?
+
+====
+
+Muhandislik talablari
+
+====
+
+Dasturiy ta'minot dizayni
+
+====
+
+Dasturiy injiniring
+
+====
+
+
+#Dastur sinovi
+
+++++
+
+Dasturiy ta'minotni sinab ko'rishda qanday testlash o'tkazilmaydi?
+
+====
+
+Modulli
+
+====
+
+#Dasturiy
+
+====
+
+Integratsiya
+
+====
+
+Tizim
+
+++++
+
+Sinov bosqichida qanday muammolar yuzaga kelmaydi?
+
+====
+
+dasturchi xato qiladi
+
+====
+
+xato nuqsonga olib keladi
+
+====
+
+nuqson dasturning ishdan chiqishiga olib keladi
+
+====
+
+#ishlamay qolsa, qayta ishga tushiriladi
+
+++++
+
+Dasturiy ta'minot sinovi nimani anglatadi?
+
+====
+
+chiqish ma'lumotlari to'plami va dasturning bajarilishini to'liq aniqlaydigan boshqa shartlar
+
+
+====
+
+dasturning borishini to'liq aniqlaydigan vazifalar va boshqa shartlar to'plami
+
+====
+
+#kirish ma'lumotlari to'plami va dasturning bajarilishini to'liq aniqlaydigan boshqa shartlar
+
+====
+
+To'g'ri javob yo'q
+
+++++
+
+Dasturiy ta'minotni sinashdan maqsadi nima?
+
+====
+
+testlar yordamida aniqlangan dasturning ishlashiga mos keladigan mahalliylashtirish va 
+kamchiliklarni
+bartaraf etish
+
+====
+
+#testlar yordamida aniqlangan barcha dasturiy nosozliklarni aniqlash va bartaraf etish
+
+====
+
+testlar yordamida aniqlangan xatolarni tahlil qilish
+
+====
+
+dasturga mos keladigan kirish va chiqish ma'lumotlarini tahlil qilish
+
+++++
+
+Dasturiy ta'minotni sinab ko'rishda qanday tur berilmaydi?
+
+====
+
+#Barqarorlikni tekshirish
+
+====
+
+Moslik sinovi
+
+====
+
+Ishlashini saqlashni tekshirish
+
+====
+
+Funksional sinov
+
+
+++++
+
+Dasturiy ta'minotning ishlashini ta'minlash, xatolar aniqlanganda o'zgartirishlar kiritish, yangi 
+ishlash
+muhitiga moslashish, samaradorlikni oshirish yoki dasturiy ta'minotning boshqa tavsiflarini qanday
+bajarish kerak?
+
+====
+
+Muhandislik talablari
+
+====
+
+Dasturiy ta'minot dizayni
+
+====
+
+Dasturiy injiniring
+
+====
+
+#Dasturiy ta'minotni takomillashtirish
+
+++++
+
+Aniqlangan xatolar va chiziqli talablarni bartaraf etish nomi nima?
+
+====
+
+#sozlash
+
+====
+
+moslashtirish va sozlash
+
+====
+
+xatoning oldini olish
+
+====
+
+Yaxshilash
+
+++++
+
+Mahsulotning o'zgaruvchan ish sharoitlariga muvofiqligi qanday nomlanadi?
+
+====
+
+Sozlash
+
+
+====
+
+#moslashtirish va sozlash
+
+====
+
+xatoning oldini olish
+
+====
+
+Takomillashtirish
+
+++++
+
+Ehtimoliy to’xtalishlarga olib kelishi mumkin bo'lgan yashirin nuqsonlarni tuzatish nomi nima?
+
+====
+
+sozlash
+
+====
+
+moslashtirish va sozlash
+
+====
+
+#xatoning oldini olish
+
+====
+
+Takomillashtirish
+
+++++
+
+Samaradorlikning oshishi yoki texnik xizmat ko'rsatish darajasining yaxsilanishi qanday nomlanadi?
+
+====
+
+sozlash
+
+====
+
+moslashtirish va sozlash
+
+====
+
+xatoning oldini olish
+
+====
+
+#takomillashtirish
+
+
+++++
+
+Dasturiy mahsuloti tomonidan amalga oshiriladigan texnik hujjatlarda belgilangan uskuna, dasturiy
+ta'minot va dasturiy ta'minotning funksional va fizik xususiyatlari to'plamining nomi nima?
+
+====
+
+#konfiguratsiya
+
+====
+
+xususiylashtirish
+
+====
+
+sozlash
+
+====
+
+o'chirish
+
+++++
+
+Dasturiy ta'minot uchun qanday konfiguratsiya auditi o'tkaziladi?
+
+====
+
+Funksional va funksional bo'lmagan
+
+====
+
+#Funksional va fizik.
+
+====
+
+Funksional va konfiguratsiya
+
+====
+
+Fizik va konfiguratsiya
+
+++++
+
+Konfiguratsiya elementlarining to'g'ri versiyalarini birlashtirish nomi nima?
+
+====
+
+#Dasturiy ta'minot qurish
+
+====
+
+
+Dasturiy kutubxona
+
+====
+
+Dasturiy ta'minot ishlab chigish
+
+====
+
+Dasturiy ta'minot seriyalari
+
+++++
+
+Dasturiy ta'minotni ishlab chiqish, undan foydalanish va texnik xizmat ko'rsatishni 
+soddalashtirishga
+mo'ljallangan dasturlarning, tegishli hujjatlarning boshqariladigan to'plamining nomi nima?
+
+====
+
+Dasturiy ta'minot qurish
+
+====
+
+#Dasturiy kutubxona
+
+====
+
+Dasturiy ta'minot ishlab chiqish
+
+====
+
+Dasturiy ta'minot seriyalari
+
+++++
+
+Dasturiy mahsulot elementlarini aniqlash, tayyorlash va etkazib berish bo'yicha faoliyat nomi nima?
+
+====
+
+Dasturiy ta'minot qurish
+
+====
+
+Dasturiy kutubxona
+
+====
+
+#Dasturiy ta'minot ishlab chigish
+
+====
+
+Dastur moduli
+
+
+++++
+
+Dasturiy ta'minotni ishlab chiqishda qanday hayot aylanish modeli ishlatilmaydi?
+
+====
+
+Kaskad
+
+====
+
+Spiral
+
+====
+
+Iterative
+
+====
+
+#Rekursiv
+
+++++
+
+Dasturiy ingineringgaa norasmiy yondoshishga asoslangan usullar qanday nomlanadi?
+
+====
+
+#evristik usullar
+
+====
+
+rasmiy usullar
+
+====
+
+prototiplash usullari
+
+====
+
+dizayn usullari
+
+++++
+
+Matematik modellarga asoslangan usullar qanday nomlanadi?
+
+====
+
+evristik usullar
+
+====
+
+#rasmiy usullar
+
+
+====
+
+prototiplash usullari
+
+====
+
+dizayn usullari
+
+++++
+
+Dasturiy ta'minot prototiplarini yaratish usullari, texnologiyalari qanday nomlanadi?
+
+====
+
+evristik usullar
+
+====
+
+rasmiy usullar
+
+====
+
+#prototiplash usullari
+
+====
+
+takomillashtirish usullari
+
+++++
+
+Xaridor talablarini qondirish qobiliyatini tavsiflovchi mahsulot xususiyatlari to'plamining nomi 
+nima?
+
+====
+
+Dasturiy ta'minot sifati
+
+====
+
+Hujjatlar sifati
+
+====
+
+Konfiguratsiya sifati
+
+====
+
+#Sifat talablari
+
+++++
+
+
+Mahsulotning talablarga javob berish darajasini ko'rsatadigan dasturiy ta'minot sifatining tavsifi 
+qanday
+nomlanadi?
+
+====
+
+#Funksionallik
+
+====
+
+Samaradorlik
+
+====
+
+Moslik
+
+====
+
+Ishonchlilik
+
+++++
+
+Taqdim etilgan manbalardan foydalanishni ko'rsatuvchi dasturiy ta'minot sifatining tavsifi qanday
+nomlanadi?
+
+====
+
+Funksionallik
+
+====
+
+#Samaradorlik
+
+====
+
+Moslik
+
+====
+
+Ishonchlilik
+
+++++
+
+Dasturiy ta'minot sifatining xarakteristikasi, boshqa dasturlar bilan ma'lumot almashish va bir xil
+sharoitda birgalikda ishlash qobiliyati qanday nomlanadi?
+
+====
+
+Funksionallik
+
+====
+
+Samaradorlik
+
+
+====
+
+#Moslik
+
+====
+
+Ishonchlilik
+
+++++
+
+Nosozliklarga chidamlilik, mavjudlik va nosozliklarni tiklash qobiliyati kabi dasturiy ta'minot 
+sifatining
+tavsifi qanday nomlanadi?
+
+====
+
+Funksionallik
+
+====
+
+Samaradorlik
+
+====
+
+Moslik
+
+====
+
+#Ishonchlilik
+
+++++
+
+Dasturiy ta'minot sifatining xarakteristikasi, foydalanuvchi ma'lumotlarini himoya qilish darajasi 
+qanday
+nomlanadi?
+
+====
+
+Funksionallik
+
+====
+
+Samaradorlik
+
+====
+
+Moslik
+
+====
+
+#Xavfsizlik
+
+++++
+
+
+Dasturiy ta'minot hayot siklining modeli nimani anglatadi?
+
+====
+
+#dasturiy mahsulotni ishlab chiqish, ishlatish va texnik xizmat ko'rsatishni ta'minlovchi 
+jarayonlar va
+vazifalar sxemasi
+
+====
+
+dasturiy mahsulotni ishlab chiqish, ishlatish va texnik xizmat ko'rsatishni ta'minlash uchun ish 
+rejasi va
+vazifalar
+
+====
+
+dasturiy mahsulotni ishlab chiqish, ishlatish va texnik xizmat ko'rsatishni ta'minlaydigan ishlarni 
+bajarish
+bo'yicha ko'rsatmalar
+
+====
+
+dasturiy ta'minotning ishlash vaqti
+
+++++
+
+Muayyan amaliy tizim uchun hayot sikl modelini shakllantirish uchun asos nima?
+
+====
+
+ISO / IEC 19907
+
+====
+
+#ISO / IEC 12207
+
+====
+SWEEBOK
+
+====
+
+Kernel SWEBOK
+
+++++
+
+Hayot sikl dasturi uchun zarur bo'lgan asosiy jarayonlar qanday?
+
+====
+
+ular hayotning barcha taniqli modellarida mavjud emas
+
+====
+
+
+hayot siklining barcha ma'lum modellarida ishlatilishi mumkin
+
+====
+
+#hayot siklining barcha ma'lum modellarida mavjud
+
+====
+
+ular hayot siklining oldingi barcha modellariga kiritilgan
+
+++++
+
+Qaysi hayot sikl modeli sxemasida keltirilgan model bir marotaba va tartibda bajariladi?
+
+====
+
+#Kaskad modeli
+
+====
+
+O'sish modeli
+
+====
+
+Spiral model
+
+====
+
+Evolyutsion model
+
+++++
+
+Qaysi modelda mahsulotni ishlab chiqish iteratsiyalarni o'z ichiga oladi, ularning har biri 
+ishlaydigan va
+mazmunli versiyani chiqarish bilan yakunlanadi?
+
+====
+
+Kaskad modeli
+
+====
+
+#O'sish modeli
+
+====
+
+Spiral model
+
+====
+
+Evolyutsion model
+
+
+++++
+
+Jarayonda ham, yaratilayotgan oraliq mahsulotda ham o'zgartirishlar kiritish imkoniyatlari qaysi 
+modelda
+hisobga olingan?
+
+====
+
+Kaskad modeli
+
+====
+
+O'sish modeli
+
+====
+
+#Spiral model
+
+====
+
+Evolyutsion model
+
+++++
+
+Yakuniy mahsulot elementlariga aylanadigan funksional prototiplardan foydalangan holda dasturiy
+ta'minotni ishlab chiqish qaysi modelda ko'rib chiqiladi?
+
+====
+
+Kaskad modeli
+
+====
+
+O'sish modeli
+
+====
+
+Spiral model
+
+====
+
+#Evolyutsion model
+
+++++
+
+Qaysi model g'oyasi muhandislik va dizayn talablariga ko'proq e'tibor qaratadi?
+
+====
+
+#Kaskad modeli
+
+====
+
+O'sish modeli
+
+
+====
+
+Spiral model
+
+====
+
+Evolyutsion model
+
+++++
+
+Qaysi model g'oyasi har bir iteratsiyada barcha kaskadli model jarayonlaridan foydalangan holda
+dasturiy mahsulotning ketma-ket o'sishini hisobga oladi?
+
+====
+
+Kaskad modeli
+
+====
+
+#O'sish modeli
+
+====
+
+Spiral model
+
+====
+
+Evolyutsion model
+
+++++
+
+Qaysi model g'oyasi xavfni boshqarish, dasturiy ta'minotning eng murakkab qismlarini erta sinovdan
+o'tkazishni hisobga oladi?
+
+====
+
+Kaskad modeli
+
+====
+
+O'sish modeli
+
+====
+
+#Spiral model
+
+====
+
+Evolyutsion model
+
+++++
+
+
+Qaysi model g'oyasi foydalanuvchi talablarini aniqlash va aniqlashtirish uchun ko'plab mahsulot
+prototiplarini yaratishni hisobga oladi?
+
+====
+
+Kaskad modeli
+
+====
+
+O'sish modeli
+
+====
+
+Spiral model
+
+====
+
+#Evolyutsion model
+
+++++
+
+Keyingi dasturiy mahsulotlarni ishlab chiqarish jarayonlarini belgilashda qanday model qiymati 
+mavjud?
+
+====
+
+#Kaskad modeli
+
+====
+
+O'sish modeli
+
+====
+
+Spiral model
+
+====
+
+Evolyutsion model
+
+++++
+
+Qanday hollarda kaskad modeli ishlatiladi?
+
+====
+
+agar eski tizimni takomillashtirish zarur bo'lsa
+
+====
+
+#agar eski tizim to'liq o'zgartirilishi kerak bo'lsa
+
+====
+
+agar eski tizim butunlay olib tashlanishi kerak bo'lsa
+
+
+====
+
+agar eski tizim yangisidan yaxshiroq bo'lsa
+
+++++
+
+Kaskad modeli hayot sikl modelining ….. ni yaratish uchun mos.
+
+====
+
+yaxshi versiya
+
+====
+
+so'nggi versiyasi
+
+====
+
+#birinchi versiya
+
+====
+
+oldingi versiya
+
+++++
+
+Inkrement modelning nomi yana qanday ataladi?
+
+====
+
+ko'tarilgan model
+
+====
+
+barqaror model
+
+====
+
+ishonchli model
+
+====
+
+#o'sayotgan model
+
+++++
+
+Inkrement modeldan foydalanish uchun qanday holatlar o'rinli?
+
+====
+
+
+agar kerak bo'lsa, talablarni tezda bajarish
+
+====
+
+#agar kerak bo'lsa, tizim imkoniyatlarini tezda amalga oshirish
+
+====
+
+agar kerak bo'lsa, sinovni tezkor o'tkazish
+
+====
+
+agar kerak bo'lsa, tizimning imkoniyatlarini o'rganing
+
+++++
+
+Inkrement modelda qanday xavf omili hisobga olinmaydi?
+
+====
+
+#dasturchi talablari tezda o'zgaradi
+
+====
+
+talablar amalga oshirish uchun tushunarsiz bo'lgan holatlar
+
+====
+
+tizimning barcha imkoniyatlari boshidanoq amalga oshirilishi kerak
+
+====
+
+texnologiya va tizim talablari tezda o'zgaradi
+
+++++
+
+Spiral model va kaskadli model o'rtasidagi farq nima?
+
+====
+
+dizayn jarayoniga ko'p marta qaytish
+
+====
+
+#talablarni shakllantirish jarayoniga takroriy qaytish
+
+====
+
+hujjatlar jarayoniga ko'p marta qaytish
+
+====
+
+talablarni shakllantirish jarayoniga bir martalik qaytish
+
+
+++++
+
+Evolyutsion modelda tizim ketma-ketlikda ishlab chiqilgan ...
+
+====
+
+bloklar modullari
+
+====
+
+ma'lumotlar bloklari
+
+====
+
+#tuzilmalar bloklari
+
+====
+
+quyi bloklar
+
+++++
+
+Evolyutsion modeldan foydalanish uchun qanday holatlar o'rinli?
+
+====
+
+#dastur uchun muhim bo'lgan loyihalar
+
+====
+
+foydalanuvchi aralashuvi muhim bo'lgan loyihalar
+
+====
+
+foydalanuvchi qiziqishi muhim bo'lgan loyihalar
+
+====
+
+foydalanuvchi interfeysi muhim bo'lgan loyihalar
+
+++++
+
+Moslashuvchan metodologiyadan foydalanish uchun qanday holatlar o'rinli?
+
+====
+
+#Versiyani tezda tayyorlashfa ehtiyojda
+
+====
+
+
+tez-tez prototiplarga ehtiyoj
+
+====
+
+tez-tez o'zgarishga ehtiyoj
+
+====
+
+tez-tez talab qilinadigan ehtiyoj
+
+++++
+
+Qaysi jarayon 12207 standartining asosiy jarayonlariga tegishli?
+
+====
+
+Hujjatlar
+
+====
+
+#ishlab chiqish
+
+====
+
+konfiguratsiyani boshqarish
+
+====
+
+Tekshirish
+
+++++
+
+Qaysi jarayon 12207 standartining yordamchi jarayonlariga tegishli?
+
+====
+
+#Hujjatlar
+
+====
+
+Rivojlanish
+
+====
+
+Operatsiya
+
+====
+
+Eskort
+
+++++
+
+
+Qaysi jarayon 12207 standartining tashkiliy jarayonlari bilan bog'liq?
+
+====
+
+Hujjatlar
+
+====
+
+Rivojlanish
+
+====
+
+#Boshqaruv
+
+====
+
+Topshirash
+
+++++
+
+12207 hayot sikl standartining asosiy jarayonlarida nechta vazifalar ko'rsatilgan?
+
+====
+150
+
+====
+115
+
+====
+120
+
+====
+#135
+
+++++
+
+SWEBOK bilimining dastlabki besh yo'nalishi ularning mazmuniga mos keladi ...
+
+====
+
+asosiy jarayonlari
+
+====
+
+qo'llab-quvvatlanadigan jarayonlar
+
+====
+
+
+#tashkiliy jarayonlar
+
+====
+
+Kirish
+
+++++
+
+SWEBOK bilimlar tarmog'ining 6-10 sohalari ularning tarkibiga mos keladi ...
+
+====
+
+yadro jarayonlari
+
+====
+
+#qo'llab-quvvatlanadigan jarayonlar
+
+====
+
+Tashkiliy jarayonlar
+
+====
+
+Kirish
+
+++++
+
+SWEBOK bilimlar tarmog'ining 11-15 sohalari ularning tarkibiga mos keladi ...
+
+====
+
+yadro jarayonlari
+
+====
+
+qo'llab-quvvatlanadigan jarayonlar
+
+====
+
+#tashkiliy jarayonlar
+
+====
+
+Kirish
+
+++++
+
+
+Muayyan maqsadlarga erishish uchun birgalikda ishlaydigan o'zaro ta'sir qiluvchi komponentlar 
+to'plami
+qanday nomlanadi?
+
+====
+
+#Tizim
+
+====
+
+Dastur
+
+====
+
+Modul
+
+====
+
+Komponent
+
+++++
+
+Tizimning o'ziga xos xususiyati nimada?
+
+====
+
+tizim tarkibiy qismlarining xususiyatlari va harakati bir-biriga murakkab va sodda tarzda ta'sir 
+qiladi
+
+====
+
+#tizim tarkibiy qismlarining xususiyatlari va harakati bir-biriga juda murakkab va chalkash tarzda 
+ta'sir
+qiladi
+
+====
+
+tizim tarkibiy qismlarining xususiyatlari va harakati bir-biriga juda sodda va chalkash tarzda 
+ta'sir qiladi
+
+====
+
+tizim tarkibiy qismlarining xususiyatlari va harakati bir-biriga ta'sir qilmaydi
+
+++++
+
+Tizimlarning integratsion xususiyatlarining nechta turi mavjud?
+
+====
+1
+
+====
+#2
+
+====
+
+
+3
+
+====
+4
+
+++++
+
+Tizim ishlaydigan sohani nima tavsiflaydi?
+
+====
+
+funksional talablar.
+
+====
+
+funksional bo'lmagan talablar
+
+====
+
+#domen talablari
+
+====
+
+tizim talablari
+
+++++
+
